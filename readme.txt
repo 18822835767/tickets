@@ -1,0 +1,1 @@
+程序在ticketstask工程的tickets包的TestSC类里，没有用上socket
